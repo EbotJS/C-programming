@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     printf("world");
-    printf("C programming");
+    printf("This is C programming");
     return 0;
 }
 hg
