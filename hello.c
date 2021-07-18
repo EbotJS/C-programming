@@ -4,4 +4,3 @@ int main() {
     printf("This is C programming");
     return 0;
 }
-hg
