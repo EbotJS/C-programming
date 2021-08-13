@@ -7,7 +7,7 @@ int main() {
 
     for(i=1;i<=height;i++) {
         for(j=0;j<i;j++) {
-            printf(".");
+            printf("#");
         }
         printf("\n");
     }
